@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am currently a M.S. candidate in Data Science at Columbia University. I reviously graduated from OSU with a B.S. in Mathematics and B.S.B.A. in Operations. # Describe yourself.
+  desc: I am currently a M.S. candidate in Data Science at Columbia University. I previously graduated from OSU with a B.S. in Mathematics and B.S.B.A. in Operations. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
