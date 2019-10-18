@@ -4,7 +4,7 @@
     detail: Fractal Analytics
     i18n: company_a
   desc:
-    detail: I worked at Fractal Analytics as a Data Science Consultant.
+    detail: I worked at Fractal Analytics as a Data Science Consultant intern.
     i18n: company_a_desc
   date:
     detail: May. 2019
@@ -16,15 +16,15 @@
   present: true
 
 - name:
-    detail: Company B
+    detail: Ohio Technology Consortium (OH-TECH)
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at OH-TECH as a business analyst.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: July. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Business Analyst Intern
     i18n: company_b_job
   icon: fa-plus-square
