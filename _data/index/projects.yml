@@ -8,11 +8,11 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
+- name: Columbia Hackathon
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+  gh_user: mingfengKeith
+  repo:
+  img: /static/assets/img/landing/cdss.png
   desc: This project is other's project. I use another request to get repo's information.
 
 - name: Google
