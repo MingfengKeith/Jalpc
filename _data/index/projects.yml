@@ -18,5 +18,5 @@
 - name: Google
   i18n: google
   url: https://google.com
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/OSU.jpg
   desc: This is another project.
