@@ -28,3 +28,17 @@
     detail: Business Analyst Intern
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: OSU Department of Civil Engineering
+    i18n: company_c
+  desc:
+    detail: I worked at OSU as a research assistant for Dr. Andre Carrel. I performed dimension-reduction algorithms on SF Muni transit data in R, and implemented Chi-Squre tests, binary logit models and SEM to predict the behavior of passengers. Paper is published on Travel Behavior and Society Journal.
+    i18n: company_c_desc
+  date:
+    detail: September. 2017
+    i18n: company_c_date
+  job:
+    detail: Data Research Assistant
+    i18n: company_c_job
+  icon: fa-plus-square
